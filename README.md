@@ -11,7 +11,7 @@ This project focuses on applying Machine Learning models to perform sentiment an
 - `Data Collection:` Using web crawling to collect data from Google Maps.
 - `Data Preprocessing:` Text cleaning, lowercasing, removing special characters, tokenizing and labeling.
 - `Feature Engineering:` Converting text into numerical vectors using TF-IDF and Word2Vec.
-- `Training and Evaluation:` Data splitting (Train/Test/Validation) and performance measurement using Confusion Matrix and Accuracy/F1-scores.
+- `Training and Evaluation:` Data splitting and performance measurement using Confusion Matrix and Accuracy/F1-scores.
 ### **TECHNOLOGIES**
 - Python
 - Scikit-learn
