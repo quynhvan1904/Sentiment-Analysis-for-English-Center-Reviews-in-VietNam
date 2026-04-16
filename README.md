@@ -13,11 +13,11 @@ This project focuses on applying Machine Learning models to perform sentiment an
 `Feature Engineering:` Converting text into numerical vectors using TF-IDF and Word2Vec.
 `Training and Evaluation:` Data splitting (Train/Test/Validation) and performance measurement using Confusion Matrix and Accuracy/F1-scores.
 ### **TECHNOLOGIES**
-Python
-Scikit-learn
-Keras
-TF-IDF
-Word2Vec
-Playwright
-BeautifulSoup
-LSTM
+- Python
+- Scikit-learn
+- Keras
+- TF-IDF
+- Word2Vec
+- Playwright
+- BeautifulSoup
+- LSTM
