@@ -7,4 +7,17 @@ This project focuses on applying Machine Learning models to perform sentiment an
 `Logistic Regression:` A statistical model for binary classification that uses the sigmoid function to estimate class probabilities.
 `Random Forest:` An ensemble learning method that combines multiple decision trees using bootstrapping to improve classification accuracy.
 `LSTM:` An RNN architecture that captures long-term dependencies and mitigates the vanishing gradient problem.
-
+## **WORKFLOW**
+`Data Collection:` Using web crawling to collect data from Google Maps.
+`Data Preprocessing:` Text cleaning, lowercasing, removing special characters, tokenizing and labeling.
+`Feature Engineering:` Converting text into numerical vectors using TF-IDF and Word2Vec.
+`Training and Evaluation:` Data splitting (Train/Test/Validation) and performance measurement using Confusion Matrix and Accuracy/F1-scores.
+## **TECHNOLOGIES**
+Python
+Scikit-learn
+Keras
+TF-IDF
+Word2Vec
+Playwright
+BeautifulSoup
+LSTM
